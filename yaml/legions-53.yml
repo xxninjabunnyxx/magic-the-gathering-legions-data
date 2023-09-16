@@ -1,0 +1,115 @@
+---
+object: card
+id: 8bf966ff-0fd0-404d-be91-5b0c21035d73
+oracle_id: b76f123d-7b78-42a1-a66e-0dee6f773687
+multiverse_ids:
+- 42026
+mtgo_id: 18393
+mtgo_foil_id: 18394
+tcgplayer_id: 10741
+cardmarket_id: 2034
+name: Synapse Sliver
+lang: en
+released_at: '2003-02-03'
+uri: https://api.scryfall.com/cards/8bf966ff-0fd0-404d-be91-5b0c21035d73
+scryfall_uri: https://scryfall.com/card/lgn/53/synapse-sliver?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.jpg?1562923281
+  normal: https://cards.scryfall.io/normal/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.jpg?1562923281
+  large: https://cards.scryfall.io/large/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.jpg?1562923281
+  png: https://cards.scryfall.io/png/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.png?1562923281
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.jpg?1562923281
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8bf966ff-0fd0-404d-be91-5b0c21035d73.jpg?1562923281
+mana_cost: "{4}{U}"
+cmc: 5.0
+type_line: Creature — Sliver
+oracle_text: Whenever a Sliver deals combat damage to a player, its controller may
+  draw a card.
+power: '3'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set: lgn
+set_name: Legions
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lgn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8bf966ff-0fd0-404d-be91-5b0c21035d73/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab76f123d-7b78-42a1-a66e-0dee6f773687&unique=prints
+collector_number: '53'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Species XR17 feeds upon the mental energies of its victims. This explains why the goblins remain unaffected."
+  —Riptide Project researcher
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Thomas M. Baxa
+artist_ids:
+- ff346569-557d-4043-ae44-97c2c7cabd7d
+illustration_id: ba76862c-dbc3-4d94-af62-bc8f287fb13b
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5816
+prices:
+  usd: '15.38'
+  usd_foil: '106.39'
+  usd_etched: 
+  eur: '10.75'
+  eur_foil: '51.00'
+  tix: '0.29'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=42026
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Synapse+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Synapse+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Synapse+Sliver
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/10741?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Synapse+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/18393?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,118 @@
+---
+object: card
+id: 52118ff1-ad76-4b97-9fdc-6adfe80140f8
+oracle_id: e09b24a0-675b-4c64-ac44-74ddf109598a
+multiverse_ids:
+- 37909
+mtgo_id: 18371
+mtgo_foil_id: 18372
+tcgplayer_id: 10794
+cardmarket_id: 2099
+name: Branchsnap Lorian
+lang: en
+released_at: '2003-02-03'
+uri: https://api.scryfall.com/cards/52118ff1-ad76-4b97-9fdc-6adfe80140f8
+scryfall_uri: https://scryfall.com/card/lgn/118/branchsnap-lorian?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.jpg?1562911651
+  normal: https://cards.scryfall.io/normal/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.jpg?1562911651
+  large: https://cards.scryfall.io/large/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.jpg?1562911651
+  png: https://cards.scryfall.io/png/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.png?1562911651
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.jpg?1562911651
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/52118ff1-ad76-4b97-9fdc-6adfe80140f8.jpg?1562911651
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Creature — Beast
+oracle_text: |-
+  Trample
+  Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+power: '4'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Morph
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set: lgn
+set_name: Legions
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lgn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/52118ff1-ad76-4b97-9fdc-6adfe80140f8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae09b24a0-675b-4c64-ac44-74ddf109598a&unique=prints
+collector_number: '118'
+digital: false
+rarity: uncommon
+flavor_text: 'Lorians treat trees and prey the same way: by ripping them limb from
+  limb.'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 7813e7ba-19ea-4665-a58c-756ff882a358
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16141
+penny_rank: 3079
+prices:
+  usd: '0.19'
+  usd_foil: '0.32'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '1.90'
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=37909
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Branchsnap+Lorian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Branchsnap+Lorian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Branchsnap+Lorian
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/10794?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Branchsnap+Lorian&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/18371?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 51ef4cda-e55b-45a8-9c02-4e77e5b15a9e
+oracle_id: a0ff742b-f709-43ac-84d2-dc00c723bad6
+multiverse_ids:
+- 35166
+mtgo_id: 18635
+mtgo_foil_id: 18636
+tcgplayer_id: 10806
+cardmarket_id: 2111
+name: Krosan Cloudscraper
+lang: en
+released_at: '2003-02-03'
+uri: https://api.scryfall.com/cards/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e
+scryfall_uri: https://scryfall.com/card/lgn/130/krosan-cloudscraper?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.jpg?1562911611
+  normal: https://cards.scryfall.io/normal/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.jpg?1562911611
+  large: https://cards.scryfall.io/large/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.jpg?1562911611
+  png: https://cards.scryfall.io/png/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.png?1562911611
+  art_crop: https://cards.scryfall.io/art_crop/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.jpg?1562911611
+  border_crop: https://cards.scryfall.io/border_crop/front/5/1/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e.jpg?1562911611
+mana_cost: "{7}{G}{G}{G}"
+cmc: 10.0
+type_line: Creature — Beast Mutant
+oracle_text: |-
+  At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.
+  Morph {7}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+power: '13'
+toughness: '13'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Morph
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set: lgn
+set_name: Legions
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c2d60a18-1a81-4784-8e0c-e1de2f43c5cf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Algn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lgn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa0ff742b-f709-43ac-84d2-dc00c723bad6&unique=prints
+collector_number: '130'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spears
+artist_ids:
+- fce9030b-86bd-4439-b06a-920a1eeb184c
+illustration_id: bdfacd54-00f3-4af0-9755-ee3d06679459
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15179
+penny_rank: 5158
+prices:
+  usd: '0.49'
+  usd_foil: '11.69'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '11.94'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=35166
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Krosan+Cloudscraper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Krosan+Cloudscraper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Krosan+Cloudscraper
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/10806?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Krosan+Cloudscraper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/18635?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
